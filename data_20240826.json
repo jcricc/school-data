@@ -1,0 +1,348 @@
+[
+    {
+        "course": {
+            "id": 186600000000020332,
+            "name": "BUDI 2400.01: Personal Financial Planning (Fall 2024)",
+            "account_id": 186600000000000035,
+            "course_code": "BUDI 2400.01",
+            "default_view": "feed",
+            "enrollments": [
+                {
+                    "type": "student",
+                    "role": "StudentEnrollment",
+                    "role_id": 186600000000000003,
+                    "user_id": 186600000000014244,
+                    "enrollment_state": "active",
+                    "limit_privileges_to_course_section": false
+                }
+            ],
+            "term_name": "Fall 2024",
+            "term_start_at": "2024-06-03T04:00:00Z",
+            "term_end_at": "2025-05-10T03:59:00Z"
+        },
+        "assignments": [
+            {
+                "id": 186600000000201785,
+                "due_at": "2024-12-09T04:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 25.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 16 Homework",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_H_553921811_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "4c932ef63451838c05d1ff83a7394971408ce48f",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201786,
+                "due_at": "2024-12-09T04:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 21.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 19 Homework",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_H_553921814_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "5defe864f2e9ed7bcae0698c0582a9fd1d32fb2e",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201787,
+                "due_at": "2024-10-28T03:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 5.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 11 Quiz",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_T_210784513_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "b0475117cb6aeb2c01404b131eae43c72f6b727b",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201788,
+                "due_at": "2024-10-28T03:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 18.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 12 Homework",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_H_553921807_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "2e0f8a23c117e017f76b81797a3efbb2d20a28bd",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201789,
+                "due_at": "2024-09-30T03:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 13.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 5 Homework",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_H_553921800_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "2e528f0a88f4e318e65395b2a8e5e2b61e276aba",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201790,
+                "due_at": "2024-09-30T03:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 17.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 4 Homework",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_H_553921799_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "2603fe372e0364becbd33167c66ba8812ed2a9be",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201791,
+                "due_at": "2024-10-28T03:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 4.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 9 Quiz",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_T_210784511_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "72717595f0a31eb6421282049624634430834f8d",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201792,
+                "due_at": "2024-09-30T03:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 6.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 7 Quiz",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_T_210784509_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "b747a90854ceca4dbe2e4eca0ffa03f28cac208f",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201793,
+                "due_at": "2024-09-30T03:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 45.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Test #1",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_T_210784524_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "e9d12e70559826dc40d57298a600396e327f89f8",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            },
+            {
+                "id": 186600000000201794,
+                "due_at": "2024-12-09T04:30:00Z",
+                "unlock_at": "2024-08-06T10:00:00Z",
+                "points_possible": 6.0,
+                "grading_type": "points",
+                "assignment_group_id": 186600000000034740,
+                "course_id": 186600000000020332,
+                "name": "Chapter 20 Quiz",
+                "submission_types": [
+                    "external_tool"
+                ],
+                "external_tool_tag_attributes": {
+                    "url": "https://tpi.bb.pearsoncmg.com/highlander/api/o/lti/tools?custom_isdeeplink=true&custom_deeplinkurl=https%3A%2F%2Ftpideeplink.bb.pearsoncmg.com%2Ftpi%2Flti%2Fbasic%2Fext_xl%2Fext.1.0.patch%3FhistoryId%3D97728_T_210784522_2%26targetId%3Dspecificassignment",
+                    "new_tab": null,
+                    "external_data": null,
+                    "resource_link_id": "be3a511e5d6005a2cceafbf11970076459c47561",
+                    "resource_link_title": null,
+                    "content_type": "ContextExternalTool",
+                    "content_id": 70,
+                    "custom_params": null
+                },
+                "published": true
+            }
+        ]
+    },
+    {
+        "course": {
+            "id": 186600000000019461,
+            "name": "CS 2381: Data Structures & Interm Progr (Tuck, Fall 2024)",
+            "account_id": 186600000000000035,
+            "course_code": "CS 2381.01",
+            "default_view": "wiki",
+            "enrollments": [
+                {
+                    "type": "student",
+                    "role": "StudentEnrollment",
+                    "role_id": 186600000000000003,
+                    "user_id": 186600000000014244,
+                    "enrollment_state": "active",
+                    "limit_privileges_to_course_section": false
+                }
+            ],
+            "term_name": "Fall 2024",
+            "term_start_at": "2024-06-03T04:00:00Z",
+            "term_end_at": "2025-05-10T03:59:00Z"
+        },
+        "assignments": []
+    },
+    {
+        "course": {
+            "id": 186600000000020082,
+            "name": "CSDI 2930.02: Robotics (Fall 2024)",
+            "account_id": 186600000000000035,
+            "course_code": "CSDI 2930.02",
+            "default_view": "modules",
+            "enrollments": [
+                {
+                    "type": "student",
+                    "role": "StudentEnrollment",
+                    "role_id": 186600000000000003,
+                    "user_id": 186600000000014244,
+                    "enrollment_state": "active",
+                    "limit_privileges_to_course_section": false
+                }
+            ],
+            "term_name": "Fall 2024",
+            "term_start_at": "2024-06-03T04:00:00Z",
+            "term_end_at": "2025-05-10T03:59:00Z"
+        },
+        "assignments": [
+            {
+                "id": 186600000000209858,
+                "points_possible": 100.0,
+                "grading_type": "percent",
+                "assignment_group_id": 186600000000037100,
+                "course_id": 186600000000020082,
+                "name": "Breadboard usage and into to lab",
+                "submission_types": [
+                    "on_paper"
+                ],
+                "published": true
+            }
+        ]
+    },
+    {
+        "course": {
+            "id": 186600000000019798,
+            "name": "MA 2300.OL1: Statistics I (Fall 2024)",
+            "account_id": 186600000000000035,
+            "course_code": "MA 2300.OL1",
+            "default_view": "wiki",
+            "enrollments": [
+                {
+                    "type": "student",
+                    "role": "StudentEnrollment",
+                    "role_id": 186600000000000003,
+                    "user_id": 186600000000014244,
+                    "enrollment_state": "active",
+                    "limit_privileges_to_course_section": false
+                }
+            ],
+            "term_name": "Fall 2024",
+            "term_start_at": "2024-06-03T04:00:00Z",
+            "term_end_at": "2025-05-10T03:59:00Z"
+        },
+        "assignments": []
+    }
+]
